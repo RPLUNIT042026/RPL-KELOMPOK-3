@@ -7,6 +7,13 @@
 
 <br><br>
 
+
+<div align="center">
+
+### 🌌 *“FIVE MINDS, ONE MISSION.”*
+
+</div>
+
 ### ✦ ONE CLASSROOM, TWO WORLDS ✦
 
 *Versi digital dari ruang kuliah, tanpa perangkat keras tambahan.*
