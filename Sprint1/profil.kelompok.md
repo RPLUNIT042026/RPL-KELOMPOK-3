@@ -16,47 +16,6 @@
 
 ---
 
-## 🧑‍🚀 Kenalan dengan Kru
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://api.dicebear.com/9.x/adventurer/png?seed=Nazua&radius=20&size=150&backgroundColor=a78bfa" width="110" alt="Nazua"><br>
-<b>Nazua</b><br>
-<code>250504128</code><br>
-<sub>🚀 Kru 01</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://api.dicebear.com/9.x/adventurer/png?seed=Grace%20Anastasya&radius=20&size=150&backgroundColor=f472b6" width="110" alt="Grace Anastasya Siahaan"><br>
-<b>Grace Anastasya Siahaan</b><br>
-<code>250504110</code><br>
-<sub>🚀 Kru 02</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://api.dicebear.com/9.x/adventurer/png?seed=Maulana%20Yoga&radius=20&size=150&backgroundColor=38bdf8" width="110" alt="Maulana Yoga Syahputra"><br>
-<b>Maulana Yoga Syahputra</b><br>
-<code>240504104</code><br>
-<sub>🚀 Kru 03</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://api.dicebear.com/9.x/adventurer/png?seed=Muhammad%20Agil&radius=20&size=150&backgroundColor=818cf8" width="110" alt="Muhammad Agil Ramadhan"><br>
-<b>Muhammad Agil Ramadhan</b><br>
-<code>240504000</code><br>
-<sub>🚀 Kru 04</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://api.dicebear.com/9.x/adventurer/png?seed=Al%20Ichsan&radius=20&size=150&backgroundColor=4ade80" width="110" alt="Al Ichsan Irawadi"><br>
-<b>Al Ichsan Irawadi</b><br>
-<code>240504120</code><br>
-<sub>🚀 Kru 05</sub>
-</td>
-</tr>
-</table>
-</div>
-
----
-
 ## 🛰️ Misi Utama
 
 <div align="center">
@@ -66,6 +25,67 @@
 *Versi digital dari ruang kuliah, tanpa perangkat keras tambahan.*
 
 </div>
+
+> Kami adalah lima mahasiswa Informatika yang belajar merancang, membangun, dan mengelola perangkat lunak secara terstruktur dalam mata kuliah **Rekayasa Perangkat Lunak**.
+>
+> Misi kami sederhana: **Learn · Create · Collaborate**.
+
+---
+
+## 🧑‍🚀 Kenalan dengan Kru
+
+<table>
+<tr>
+<td align="center" width="170">
+<img src="https://api.dicebear.com/9.x/adventurer/png?seed=Nazua&radius=20&size=200&backgroundColor=a78bfa" width="145" alt="Nazua">
+</td>
+<td>
+<b>Nazua</b><br>
+<code>250504128</code><br><br>
+🚀 Kru 01
+</td>
+</tr>
+<tr>
+<td align="center" width="170">
+<img src="https://api.dicebear.com/9.x/adventurer/png?seed=Grace%20Anastasya&radius=20&size=200&backgroundColor=f472b6" width="145" alt="Grace Anastasya Siahaan">
+</td>
+<td>
+<b>Grace Anastasya Siahaan</b><br>
+<code>250504110</code><br><br>
+🚀 Kru 02
+</td>
+</tr>
+<tr>
+<td align="center" width="170">
+<img src="https://api.dicebear.com/9.x/adventurer/png?seed=Maulana%20Yoga&radius=20&size=200&backgroundColor=38bdf8" width="145" alt="Maulana Yoga Syahputra">
+</td>
+<td>
+<b>Maulana Yoga Syahputra</b><br>
+<code>240504104</code><br><br>
+🚀 Kru 03
+</td>
+</tr>
+<tr>
+<td align="center" width="170">
+<img src="https://api.dicebear.com/9.x/adventurer/png?seed=Muhammad%20Agil&radius=20&size=200&backgroundColor=818cf8" width="145" alt="Muhammad Agil Ramadhan">
+</td>
+<td>
+<b>Muhammad Agil Ramadhan</b><br>
+<code>240504000</code><br><br>
+🚀 Kru 04
+</td>
+</tr>
+<tr>
+<td align="center" width="170">
+<img src="https://api.dicebear.com/9.x/adventurer/png?seed=Al%20Ichsan&radius=20&size=200&backgroundColor=4ade80" width="145" alt="Al Ichsan Irawadi">
+</td>
+<td>
+<b>Al Ichsan Irawadi</b><br>
+<code>240504120</code><br><br>
+🚀 Kru 05
+</td>
+</tr>
+</table>
 
 ---
 
@@ -129,32 +149,4 @@ Setiap anggota punya cabang (branch) sendiri, lalu semuanya digabung ke `main` u
 ![JavaScript](https://img.shields.io/badge/JavaScript-0b132b?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0b132b)
 ![Python](https://img.shields.io/badge/Python-0b132b?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0b132b)
 ![Git](https://img.shields.io/badge/Git-0b132b?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0b132b)
-![GitHub](https://img.shields.io/badge/GitHub-0b132b?style=for-the-badge&logo=github&logoColor=white&labelColor=0b132b)
-
-</div>
-
----
-
-## 📜 Misi Kami
-
-> Kami adalah lima mahasiswa Informatika yang belajar merancang, membangun, dan mengelola perangkat lunak secara terstruktur dalam mata kuliah **Rekayasa Perangkat Lunak**.
->
-> Misi kami sederhana: **Learn · Create · Collaborate**.
-
----
-
-## 🏆 Proyek Aktif
-
-| Proyek | Deskripsi | Tautan |
-|:------:|:----------|:------:|
-| **SMART CLASSROOM DIGITAL TWIN SYSTEM** | Versi digital dari ruang kuliah, tanpa perangkat keras tambahan. | [Lihat](#) |
-
----
-
-<div align="center">
-
-### 🌠 Terima kasih sudah mampir! 💜
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3a506b,50:1c2541,100:0b132b&height=110&section=footer&text=Mission%20Complete&fontSize=26&fontColor=5bc0be&fontAlignY=65&animation=twinkling" width="100%" alt="Mission Complete">
-
-</div>
+!
