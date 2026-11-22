@@ -8,7 +8,9 @@
 
 <br/><br/>
 
-*Design • Develop • Innovate*
+<div align="center">
+
+### 🌌 *“FIVE MINDS, ONE MISSION.”*
 
 </div>
 
