@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="./assets/bener.png" width="100%" alt="Smart Classroom Digital Twin System">
+<div align="center">
+
+<img src="../assets/bener.png" width="100%" alt="Smart Classroom Digital Twin System">
+
+</div>
 
 <br>
 
