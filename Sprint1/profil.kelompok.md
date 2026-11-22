@@ -52,7 +52,7 @@ GitHub: <a href="https://github.com/nazua4868-coder">@nazua4868-coder</a><br><br
 </tr>
 <tr>
 <td align="center" width="170">
-<img src="https://api.dicebear.com/9.x/adventurer/png?seed=Grace%20Anastasya&radius=20&size=200&backgroundColor=f472b6" width="145" alt="Grace Anastasya Siahaan">
+<img src="../assets/WhatsApp%20Image%202026-11-23%20at%2003.38.50.jpeg" alt="Grace" width="145"> alt="Grace Anastasya Siahaan">
 </td>
 <td>
 <b>Grace Anastasya Siahaan</b><br>
