@@ -110,6 +110,6 @@ Aplikasi web yang merepresentasikan ruang kuliah universitas secara digital. Pen
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10172A,35:164E83,70:087EAD,100:38BDF8&height=140&section=footer&text=DESIGN%20%E2%80%A2%20DEVELOP%20%E2%80%A2%20INNOVATE&fontSize=22&fontColor=FFFFFF&animation=fadeIn"/>
 
-**SMART CLASSROOM DIGITAL TWIN SYSTEM © 2026**
+**INFORMAATIKA TEAM © 2026**
 
 </div>
