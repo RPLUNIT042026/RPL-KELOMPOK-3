@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="header.svg" width="100%" alt="Smart Classroom Digital Twin System">
-
+<img src="./assets/header.svg" width="100%" alt="Smart Classroom Digital Twin System">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&color=2DD4BF&center=true&vCenter=true&width=640&height=80&lines=%24+init+digital-twin+--ruang%3Dkuliah;%E2%9C%93+model+ruang+virtual+siap;%E2%9C%93+perangkat+keras+tambahan%3A+0;%E2%9C%93+status%3A+ONLINE" alt="Terminal">
 
 <br>
