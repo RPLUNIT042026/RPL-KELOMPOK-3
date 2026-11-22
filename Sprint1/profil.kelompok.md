@@ -41,7 +41,8 @@
 </td>
 <td>
 <b>Nazua</b><br>
-<code>250504128</code><br><br>
+<code>250504128</code><br>
+GitHub: <a href="https://github.com/nazua4868-coder">@nazua4868-coder</a><br><br>
 🚀 Kru 01
 </td>
 </tr>
@@ -51,7 +52,8 @@
 </td>
 <td>
 <b>Grace Anastasya Siahaan</b><br>
-<code>250504110</code><br><br>
+<code>250504110</code><br>
+GitHub: <a href="https://github.com/geyesanastasya05-hub">@geyesanastasya05-hub</a><br><br>
 🚀 Kru 02
 </td>
 </tr>
@@ -61,7 +63,8 @@
 </td>
 <td>
 <b>Maulana Yoga Syahputra</b><br>
-<code>240504104</code><br><br>
+<code>240504104</code><br>
+GitHub: <a href="https://github.com/Nganggurr">@Nganggurr</a><br><br>
 🚀 Kru 03
 </td>
 </tr>
@@ -71,7 +74,8 @@
 </td>
 <td>
 <b>Muhammad Agil Ramadhan</b><br>
-<code>240504000</code><br><br>
+<code>240504000</code><br>
+GitHub: <a href="https://github.com/agilramadhannn">@agilramadhannn</a><br><br>
 🚀 Kru 04
 </td>
 </tr>
@@ -81,7 +85,8 @@
 </td>
 <td>
 <b>Al Ichsan Irawadi</b><br>
-<code>240504120</code><br><br>
+<code>240504120</code><br>
+GitHub: <a href="https://github.com/al-ichsan">@al-ichsan</a><br><br>
 🚀 Kru 05
 </td>
 </tr>
@@ -149,4 +154,24 @@ Setiap anggota punya cabang (branch) sendiri, lalu semuanya digabung ke `main` u
 ![JavaScript](https://img.shields.io/badge/JavaScript-0b132b?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0b132b)
 ![Python](https://img.shields.io/badge/Python-0b132b?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0b132b)
 ![Git](https://img.shields.io/badge/Git-0b132b?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0b132b)
-!
+![GitHub](https://img.shields.io/badge/GitHub-0b132b?style=for-the-badge&logo=github&logoColor=white&labelColor=0b132b)
+
+</div>
+
+---
+
+## 🏆 Proyek Aktif
+
+| Proyek | Deskripsi | Tautan |
+|:------:|:----------|:------:|
+| **SMART CLASSROOM DIGITAL TWIN SYSTEM** | Versi digital dari ruang kuliah, tanpa perangkat keras tambahan. | [Lihat](#) |
+
+---
+
+<div align="center">
+
+### 🌠 Terima kasih sudah mampir! 💜
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3a506b,50:1c2541,100:0b132b&height=110&section=footer&text=Mission%20Complete&fontSize=26&fontColor=5bc0be&fontAlignY=65&animation=twinkling" width="100%" alt="Mission Complete">
+
+</div>
