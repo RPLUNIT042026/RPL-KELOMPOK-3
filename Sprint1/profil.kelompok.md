@@ -13,7 +13,7 @@
 
 <div align="center">
 
-### 🌌 *“Lima pikiran, satu misi, kreativitas tanpa batas.”*
+### 🌌 *“FIVE MINDS, ONE MISSION.”*
 
 </div>
 
