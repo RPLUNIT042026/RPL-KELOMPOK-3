@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="../assets/bener.png" width="100%" alt="Smart Classroom Digital Twin System">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10172A,35:164E83,70:087EAD,100:38BDF8&height=200&section=header&text=SMART%20CLASSROOM%20DIGITAL%20TWIN%20SYSTEM&fontSize=31&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=SMART%20CAMPUS%20%7C%20DIGITAL%20TWIN%20PROJECT&descAlignY=62&descSize=14"/>
 
 </div>
 
