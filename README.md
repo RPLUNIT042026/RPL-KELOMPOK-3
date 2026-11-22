@@ -115,6 +115,21 @@ Project ini dikembangkan dengan beberapa tujuan:
 
 ---
 
+
+<h2 align="center">🛠️ TOOLS & TECHNOLOGIES</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,github,html,css,js" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Code%20Editor-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode">
+<img src="https://img.shields.io/badge/Version%20Control-GitHub-181717?style=for-the-badge&logo=github">
+
+</div>
+
+
 ## 🎓 ACADEMIC INFORMATION
 
 <div align="center">
@@ -159,18 +174,5 @@ Informatika
 <sub>© 2026 SMART CLASSROOM DIGITAL TWIN SYSTEM</sub>
 
 <sub>Developed with 💙 by Informatika Team</sub>
-
-</div>
-
-<h2 align="center">🛠️ TOOLS & TECHNOLOGIES</h2>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,github,html,css,js" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Code%20Editor-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode">
-<img src="https://img.shields.io/badge/Version%20Control-GitHub-181717?style=for-the-badge&logo=github">
 
 </div>
