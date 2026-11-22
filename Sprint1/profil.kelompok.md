@@ -135,7 +135,7 @@ Setiap proyek melewati enam tahap siklus hidup pengembangan perangkat lunak (SDL
 
 ---
 
-## 🌿 Kerja Tim di Git
+## 🌿 Kerja Tim 
 
 Setiap anggota punya cabang (branch) sendiri, lalu semuanya digabung ke `main` untuk rilis versi 1.0.
 
