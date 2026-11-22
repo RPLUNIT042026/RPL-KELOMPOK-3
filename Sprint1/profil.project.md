@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b132b,50:1c2541,100:3a506b&height=190&section=header&text=SMART%20CLASSROOM%20DIGITAL%20TWIN&fontSize=38&fontColor=5bc0be&fontAlignY=45&desc=PROFIL%20PROYEK%20%E2%80%A2%20SPRINT%201&descSize=16&descColor=e2e8f0&descAlignY=68" width="100%" alt="Smart Classroom Digital Twin">
+<img src="./assets/bener.png" width="100%" alt="Smart Classroom Digital Twin System">
 
 <br>
 
