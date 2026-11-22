@@ -153,16 +153,16 @@ Setiap anggota punya cabang (branch) sendiri, lalu semuanya digabung ke `main` u
 
 ---
 
-## 🧰 Perlengkapan
+## 💻 Languages & Technologic
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode&theme=dark" />
 
-![HTML](https://img.shields.io/badge/HTML5-0b132b?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0b132b)
-![CSS](https://img.shields.io/badge/CSS3-0b132b?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0b132b)
-![JavaScript](https://img.shields.io/badge/JavaScript-0b132b?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0b132b)
-![Python](https://img.shields.io/badge/Python-0b132b?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0b132b)
-![Git](https://img.shields.io/badge/Git-0b132b?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0b132b)
-![GitHub](https://img.shields.io/badge/GitHub-0b132b?style=for-the-badge&logo=github&logoColor=white&labelColor=0b132b)
+<br/><br/>
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </div>
 
