@@ -1,15 +1,10 @@
 <div align="center">
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10172A,35:164E83,70:087EAD,100:38BDF8&height=200&section=header&text=SMART%20CLASSROOM%20DIGITAL%20TWIN%20SYSTEM&fontSize=31&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=SMART%20CAMPUS%20%7C%20DIGITAL%20TWIN%20PROJECT&descAlignY=62&descSize=14"/>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00112D,35:001536,70:001A40,100:00112D&height=200&section=header&text=SMART%20CLASSROOM%20DIGITAL%20TWIN%20SYSTEM&fontSize=31&fontColor=FFFFFF&fontAlignY=40&desc=SMART%20CAMPUS%20%7C%20DIGITAL%20TWIN%20PROJECT&descAlignY=62&descSize=14"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3000&pause=1000&color=5BC0BE&center=true&vCenter=true&width=640&height=45&lines=Mission+Control+%E2%80%A2+Online;Five+Minds%2C+One+Mission;Learn+%C2%B7+Create+%C2%B7+Collaborate" alt="Mission Control">
 
 </div>
-
 ---
 
 <div align="center">
