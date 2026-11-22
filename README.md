@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1128,50:0d3b5e,100:1fb6a4&height=260&section=header&text=SMART%20CLASSROOM&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=DIGITAL%20TWIN%20SYSTEM&descSize=24&descColor=a7f3e6&descAlignY=58&animation=fadeIn" width="100%" alt="Smart Classroom Digital Twin System">
+<img src="header.svg" width="100%" alt="Smart Classroom Digital Twin System">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&color=2DD4BF&center=true&vCenter=true&width=640&height=80&lines=%24+init+digital-twin+--ruang%3Dkuliah;%E2%9C%93+model+ruang+virtual+siap;%E2%9C%93+perangkat+keras+tambahan%3A+0;%E2%9C%93+status%3A+ONLINE" alt="Terminal">
 
