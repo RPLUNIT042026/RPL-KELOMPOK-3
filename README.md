@@ -20,15 +20,19 @@
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1800&pause=200&color=22D3EE&center=true&vCenter=true&width=850&height=25&lines=%E2%9E%A4+%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%A4" alt="Animated Divider">
+
 </div>
 
----
+<h2 align="center">🌐 ABOUT THE PROJECT</h2>
 
-## 🌐 ABOUT THE PROJECT
+<p align="center">
+<strong>Smart Classroom Digital Twin System</strong> merupakan project pengembangan sistem yang mengangkat konsep Digital Twin dalam lingkungan pendidikan, khususnya ruang kelas perkuliahan.
+</p>
 
-**Smart Classroom Digital Twin System** merupakan project pengembangan sistem yang mengangkat konsep Digital Twin dalam lingkungan pendidikan, khususnya ruang kelas perkuliahan.
-
+<p align="center">
 Konsep ini menghubungkan dunia nyata dengan representasi digital sehingga kondisi dan aktivitas ruang kelas dapat divisualisasikan, dipantau, serta disimulasikan melalui lingkungan virtual.
+</p>
 
 <div align="center">
 
@@ -38,15 +42,17 @@ Konsep ini menghubungkan dunia nyata dengan representasi digital sehingga kondis
 | Aktivitas pembelajaran | **Representation** | Visualisasi digital |
 | Lingkungan nyata | **Simulation** | Lingkungan virtual |
 
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1800&pause=200&color=22D3EE&center=true&vCenter=true&width=850&height=25&lines=%E2%9E%A4+%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%A4" alt="Animated Divider">
+
 </div>
 
----
-
-## ⚡ PROJECT HIGHLIGHTS
+<h2 align="center">⚡ PROJECT HIGHLIGHTS</h2>
 
 <div align="center">
 
-| <img src="https://img.icons8.com/fluency/48/classroom.png" width="35"> | <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="35"> | <img src="https://img.icons8.com/fluency/48/cloud.png" width="35"> |
+| <img src="https://img.icons8.com/fluency/48/classroom.png" width="40"> | <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="40"> | <img src="https://img.icons8.com/fluency/48/cloud.png" width="40"> |
 |:---:|:---:|:---:|
 | **Smart Learning** | **Digital Twin** | **Virtual Environment** |
 | Konsep kelas pintar | Representasi digital | Lingkungan virtual |
@@ -57,13 +63,15 @@ Konsep ini menghubungkan dunia nyata dengan representasi digital sehingga kondis
 <img src="https://img.shields.io/badge/5-TEAM%20MEMBERS-8B5CF6?style=for-the-badge">
 <img src="https://img.shields.io/badge/6-SDLC%20STAGES-14B8A6?style=for-the-badge">
 
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1800&pause=200&color=22D3EE&center=true&vCenter=true&width=850&height=25&lines=%E2%9E%A4+%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%A4" alt="Animated Divider">
+
 </div>
 
----
+<h2 align="center">🎯 PROJECT OBJECTIVES</h2>
 
-## 🎯 PROJECT OBJECTIVES
-
-Project ini dikembangkan dengan beberapa tujuan:
+<p align="center">Project ini dikembangkan dengan beberapa tujuan:</p>
 
 - 🏫 Menghadirkan representasi digital dari ruang kelas.
 - 🌐 Menghubungkan konsep dunia nyata dengan dunia virtual.
@@ -71,9 +79,13 @@ Project ini dikembangkan dengan beberapa tujuan:
 - 💡 Menerapkan konsep Digital Twin dalam bidang pendidikan.
 - 🚀 Mengembangkan pemahaman mengenai teknologi pendidikan berbasis digital.
 
----
+<div align="center">
 
-## 🔄 SYSTEM DEVELOPMENT
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1800&pause=200&color=22D3EE&center=true&vCenter=true&width=850&height=25&lines=%E2%9E%A4+%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%A4" alt="Animated Divider">
+
+</div>
+
+<h2 align="center">🔄 SYSTEM DEVELOPMENT</h2>
 
 <div align="center">
 
@@ -89,11 +101,13 @@ Project ini dikembangkan dengan beberapa tujuan:
 <img src="https://img.shields.io/badge/05-TESTING-059669?style=for-the-badge">
 <img src="https://img.shields.io/badge/06-MAINTENANCE-D97706?style=for-the-badge">
 
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1800&pause=200&color=22D3EE&center=true&vCenter=true&width=850&height=25&lines=%E2%9E%A4+%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%A4" alt="Animated Divider">
+
 </div>
 
----
-
-## 👨‍💻 DEVELOPMENT TEAM
+<h2 align="center">👨‍💻 DEVELOPMENT TEAM</h2>
 
 <div align="center">
 
@@ -111,9 +125,13 @@ Project ini dikembangkan dengan beberapa tujuan:
 | 🎮 04 | **Muhammad Agil Ramadhan** | Team Member |
 | 🚀 05 | **Al Ichsan Irawadi** | Team Member |
 
----
+<div align="center">
 
-## 🎓 ACADEMIC INFORMATION
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1800&pause=200&color=22D3EE&center=true&vCenter=true&width=850&height=25&lines=%E2%9E%A4+%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%A4" alt="Animated Divider">
+
+</div>
+
+<h2 align="center">🎓 ACADEMIC INFORMATION</h2>
 
 <div align="center">
 
@@ -126,36 +144,16 @@ Project ini dikembangkan dengan beberapa tujuan:
 
 Cut Alna Fadhilla, S.Kom., M.Sc.
 
+<br>
+
 **Mata Kuliah**
 
 Rekayasa Perangkat Lunak
 
+<br>
+
 **Program Studi**
 
 Informatika
-
-</div>
-
----
-
-<div align="center">
-
-## 🌌 OUR VISION
-
-### "One Classroom, Two Worlds."
-
-*Connecting real education with digital innovation.*
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&height=40&lines=Think+Digital.;Build+Smart.;Create+The+Future." alt="Footer Animation">
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,50:164E8A,100:0A1128&height=130&section=footer" width="100%" alt="Footer">
-
-<sub>© 2026 SMART CLASSROOM DIGITAL TWIN SYSTEM</sub>
-
-<sub>Developed with 💙 by Informatika Team</sub>
 
 </div>
