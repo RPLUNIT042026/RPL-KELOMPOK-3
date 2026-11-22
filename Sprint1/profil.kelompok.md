@@ -30,8 +30,7 @@
 
 </div>
 
-> Kami adalah lima mahasiswa Informatika yang belajar merancang, membangun, dan mengelola perangkat lunak secara terstruktur dalam mata kuliah **Rekayasa Perangkat Lunak**.
->
+> Belajar bersama, bekerja sama, dan mengembangkan kemampuan dalam bidang Rekayasa Perankat Lunak. Kami adalah lima mahasiswa Informatika yang belajar merancang, membangun, dan mengelola perangkat lunak secara terstruktur>
 > Misi kami sederhana: **Learn · Create · Collaborate**.
 
 ---
