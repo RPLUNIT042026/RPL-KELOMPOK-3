@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3000&pause=1000&color=5BC0BE&center=true&vCenter=true&width=640&height=45&lines=Mission+Control+%E2%80%A2+Online;Five+Minds%2C+One+Mission;Learn+%C2%B7+Create+%C2%B7+Collaborate" alt="Mission Control">
 
-**Dosen Pengampu: Cut Alna Fadhilla, S.Kom., M.Sc.**
-
 </div>
 
 ---
@@ -55,15 +53,6 @@
 </td>
 </tr>
 </table>
-</div>
-
-<div align="center">
-
-🎓 **Komandan Misi (Dosen Pengampu)**
-<br><br>
-<img src="https://api.dicebear.com/9.x/adventurer/png?seed=Cut%20Alna%20Fadhilla&radius=20&size=150&backgroundColor=fbbf24" width="110" alt="Cut Alna Fadhilla"><br>
-**Cut Alna Fadhilla, S.Kom., M.Sc.**
-
 </div>
 
 ---
