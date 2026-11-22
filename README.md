@@ -1,5 +1,3 @@
-# 🏫 SMART CLASSROOM DIGITAL TWIN SYSTEM
-
 <div align="center">
 
 <img src="./assets/bener.png" width="100%" alt="Smart Classroom Digital Twin System">
@@ -93,48 +91,16 @@ Project ini dikembangkan dengan beberapa tujuan:
 
 </div>
 
----
-
-## 👨‍💻 DEVELOPMENT TEAM
+<h2 align="center">🛠️ TOOLS & TECHNOLOGIES</h2>
 
 <div align="center">
 
-### ✦ MEET OUR TEAM ✦
-
-*Different personalities, one destination.*
-
-</div>
-
-| PLAYER | TEAM MEMBER | ROLE |
-|:---:|---|:---:|
-| 🎀 01 | **Nazua** | Team Member |
-| 🌸 02 | **Grace Anastasya Siahaan** | Team Member |
-| ⚡ 03 | **Maulana Yoga Syahputra** | Team Member |
-| 🎮 04 | **Muhammad Agil Ramadhan** | Team Member |
-| 🚀 05 | **Al Ichsan Irawadi** | Team Member |
-
----
-
-## 🎓 ACADEMIC INFORMATION
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/COURSE-Rekayasa%20Perangkat%20Lunak-0D9488?style=for-the-badge">
-<img src="https://img.shields.io/badge/LECTURER-Cut%20Alna%20Fadhilla-2563EB?style=for-the-badge">
+<img src="https://skillicons.dev/icons?i=vscode,github,html,css,js" />
 
 <br><br>
 
-**Dosen Pengampu**
-
-Cut Alna Fadhilla, S.Kom., M.Sc.
-
-**Mata Kuliah**
-
-Rekayasa Perangkat Lunak
-
-**Program Studi**
-
-Informatika
+<img src="https://img.shields.io/badge/Code%20Editor-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode">
+<img src="https://img.shields.io/badge/Version%20Control-GitHub-181717?style=for-the-badge&logo=github">
 
 </div>
 
