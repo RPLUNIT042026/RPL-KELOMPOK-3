@@ -37,7 +37,9 @@
 <sub>🚀 Kru 02</sub>
 </td>
 <td align="center" width="20%">
-<img src="assets/WhatsApp image 2026-11-23 at 02.04.04.jpeg" width="100" alt="Maulana Yoga Syahputra"><br>
+<img src="./assets/WhatsApp%20image%202026-11-23%20at%2002.04.04.jpeg"
+     width="100"
+     alt="Maulana Yoga Syahputra"><br>
 <b>Maulana Yoga Syahputra</b><br>
 <code>240504104</code><br>
 <sub>🚀 Kru 03</sub>
