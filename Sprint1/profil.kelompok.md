@@ -41,7 +41,7 @@
 <table>
 <tr>
 <td align="center" width="170">
-<img src="../assets/WhatsApp%20Image%202026-11-23%20at%2003.27.34.jpeg" alt="Nazua" width="145">alt="Nazua">
+<img src="../assets/WhatsApp%20Image%202026-11-23%20at%2003.27.34.jpeg" alt="Nazua" width="145">
 </td>
 <td>
 <b>Nazua</b><br>
@@ -52,7 +52,7 @@ GitHub: <a href="https://github.com/nazua4868-coder">@nazua4868-coder</a><br><br
 </tr>
 <tr>
 <td align="center" width="170">
-<img src="../assets/WhatsApp%20Image%202026-11-23%20at%2003.38.50.jpeg" alt="Grace" width="145"> alt="Grace Anastasya Siahaan">
+<img src="../assets/WhatsApp%20Image%202026-11-23%20at%2003.38.50.jpeg" alt="Grace" width="145"> 
 </td>
 <td>
 <b>Grace Anastasya Siahaan</b><br>
