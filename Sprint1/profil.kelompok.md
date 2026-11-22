@@ -175,8 +175,8 @@ Setiap anggota punya cabang (branch) sendiri, lalu semuanya digabung ke `main` u
 
 <div align="center">
 
-### 🌠 Terima kasih sudah mampir! 💜
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3a506b,50:1c2541,100:0b132b&height=110&section=footer&text=Mission%20Complete&fontSize=26&fontColor=5bc0be&fontAlignY=65&animation=twinkling" width="100%" alt="Mission Complete">
+
+**INFORMAATIKA TEAM © 2026**
 
 </div>
