@@ -1,52 +1,163 @@
+# 🏫 SMART CLASSROOM DIGITAL TWIN SYSTEM
+
 <div align="center">
 
 <img src="./assets/bener.png" width="100%" alt="Smart Classroom Digital Twin System">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&color=2DD4BF&center=true&vCenter=true&width=640&height=80&lines=%24+init+digital-twin+--ruang%3Dkuliah;%E2%9C%93+model+ruang+virtual+siap;%E2%9C%93+perangkat+keras+tambahan%3A+0;%E2%9C%93+status%3A+ONLINE" alt="Terminal">
 
 <br>
 
-> ### *Versi digital dari ruang kuliah, tanpa perangkat keras tambahan.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+Smart+Classroom+Digital+Twin;%24+Initializing+Digital+Environment...;%E2%9C%93+Virtual+Classroom+Model+Ready;%E2%9C%93+System+Status%3A+ONLINE" alt="Typing Animation">
 
 <br>
 
-<table>
-<tr>
-<td align="center" width="45%"><h3>🏫 DUNIA NYATA</h3><sub>ruang kuliah, dosen, jadwal</sub></td>
-<td align="center" width="10%"><h3>⇄</h3></td>
-<td align="center" width="45%"><h3>🪞 DUNIA DIGITAL</h3><sub>kembaran yang bisa dipantau & disimulasikan</sub></td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/PROJECT-SMART%20CLASSROOM-0D9488?style=for-the-badge&logo=googleclassroom&logoColor=white">
+<img src="https://img.shields.io/badge/SYSTEM-DIGITAL%20TWIN-2563EB?style=for-the-badge&logo=databricks&logoColor=white">
+<img src="https://img.shields.io/badge/STATUS-DEVELOPMENT-F59E0B?style=for-the-badge&logo=github&logoColor=white">
+
+<br><br>
+
+### ✦ ONE CLASSROOM, TWO WORLDS ✦
+
+*Versi digital dari ruang kuliah, tanpa perangkat keras tambahan.*
 
 <br>
 
-<table>
-<tr>
-<td align="center" width="33%"><h2>0</h2><sub>HARDWARE<br>TAMBAHAN</sub></td>
-<td align="center" width="33%"><h2>5</h2><sub>ANGGOTA<br>TIM</sub></td>
-<td align="center" width="33%"><h2>6</h2><sub>TAHAP<br>SDLC</sub></td>
-</tr>
-</table>
-
-<br>
+</div>
 
 ---
 
-### ✦ DIKEMBANGKAN OLEH INFORMATIKA TEAM ✦
+## 🌐 ABOUT THE PROJECT
 
-**Nazua** · **Grace Anastasya Siahaan** · **Maulana Yoga Syahputra**<br>
-**Muhammad Agil Ramadhan** · **Al Ichsan Irawadi**
+**Smart Classroom Digital Twin System** merupakan project pengembangan sistem yang mengangkat konsep Digital Twin dalam lingkungan pendidikan, khususnya ruang kelas perkuliahan.
 
-🎓 Dosen Pengampu: **Cut Alna Fadhilla, S.Kom., M.Sc.**<br>
-📚 Mata Kuliah: **Rekayasa Perangkat Lunak**
+Konsep ini menghubungkan dunia nyata dengan representasi digital sehingga kondisi dan aktivitas ruang kelas dapat divisualisasikan, dipantau, serta disimulasikan melalui lingkungan virtual.
+
+<div align="center">
+
+| 🏫 REAL WORLD | ⇄ | 🪞 DIGITAL WORLD |
+|:---:|:---:|:---:|
+| Ruang kuliah | **Connection** | Model ruang virtual |
+| Aktivitas pembelajaran | **Representation** | Visualisasi digital |
+| Lingkungan nyata | **Simulation** | Lingkungan virtual |
+
+</div>
 
 ---
 
+## ⚡ PROJECT HIGHLIGHTS
+
+<div align="center">
+
+| <img src="https://img.icons8.com/fluency/48/classroom.png" width="35"> | <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="35"> | <img src="https://img.icons8.com/fluency/48/cloud.png" width="35"> |
+|:---:|:---:|:---:|
+| **Smart Learning** | **Digital Twin** | **Virtual Environment** |
+| Konsep kelas pintar | Representasi digital | Lingkungan virtual |
+
 <br>
 
-*“Satu ruang kuliah, dua dunia: nyata dan digital.”*
+<img src="https://img.shields.io/badge/0-HARDWARE%20TAMBAHAN-06B6D4?style=for-the-badge">
+<img src="https://img.shields.io/badge/5-TEAM%20MEMBERS-8B5CF6?style=for-the-badge">
+<img src="https://img.shields.io/badge/6-SDLC%20STAGES-14B8A6?style=for-the-badge">
+
+</div>
+
+---
+
+## 🎯 PROJECT OBJECTIVES
+
+Project ini dikembangkan dengan beberapa tujuan:
+
+- 🏫 Menghadirkan representasi digital dari ruang kelas.
+- 🌐 Menghubungkan konsep dunia nyata dengan dunia virtual.
+- 📊 Memvisualisasikan kondisi lingkungan ruang kelas.
+- 💡 Menerapkan konsep Digital Twin dalam bidang pendidikan.
+- 🚀 Mengembangkan pemahaman mengenai teknologi pendidikan berbasis digital.
+
+---
+
+## 🔄 SYSTEM DEVELOPMENT
+
+<div align="center">
+
+### SOFTWARE DEVELOPMENT LIFE CYCLE
+
+<img src="https://img.shields.io/badge/01-PLANNING-2563EB?style=for-the-badge">
+<img src="https://img.shields.io/badge/02-ANALYSIS-7C3AED?style=for-the-badge">
+<img src="https://img.shields.io/badge/03-DESIGN-DB2777?style=for-the-badge">
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1fb6a4,50:0d3b5e,100:0a1128&height=120&section=footer" width="100%" alt="">
+<img src="https://img.shields.io/badge/04-IMPLEMENTATION-0891B2?style=for-the-badge">
+<img src="https://img.shields.io/badge/05-TESTING-059669?style=for-the-badge">
+<img src="https://img.shields.io/badge/06-MAINTENANCE-D97706?style=for-the-badge">
+
+</div>
+
+---
+
+## 👨‍💻 DEVELOPMENT TEAM
+
+<div align="center">
+
+### ✦ MEET OUR TEAM ✦
+
+*Different personalities, one destination.*
+
+</div>
+
+| PLAYER | TEAM MEMBER | ROLE |
+|:---:|---|:---:|
+| 🎀 01 | **Nazua** | Team Member |
+| 🌸 02 | **Grace Anastasya Siahaan** | Team Member |
+| ⚡ 03 | **Maulana Yoga Syahputra** | Team Member |
+| 🎮 04 | **Muhammad Agil Ramadhan** | Team Member |
+| 🚀 05 | **Al Ichsan Irawadi** | Team Member |
+
+---
+
+## 🎓 ACADEMIC INFORMATION
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/COURSE-Rekayasa%20Perangkat%20Lunak-0D9488?style=for-the-badge">
+<img src="https://img.shields.io/badge/LECTURER-Cut%20Alna%20Fadhilla-2563EB?style=for-the-badge">
+
+<br><br>
+
+**Dosen Pengampu**
+
+Cut Alna Fadhilla, S.Kom., M.Sc.
+
+**Mata Kuliah**
+
+Rekayasa Perangkat Lunak
+
+**Program Studi**
+
+Informatika
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌌 OUR VISION
+
+### "One Classroom, Two Worlds."
+
+*Connecting real education with digital innovation.*
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&height=40&lines=Think+Digital.;Build+Smart.;Create+The+Future." alt="Footer Animation">
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,50:164E8A,100:0A1128&height=130&section=footer" width="100%" alt="Footer">
+
+<sub>© 2026 SMART CLASSROOM DIGITAL TWIN SYSTEM</sub>
+
+<sub>Developed with 💙 by Informatika Team</sub>
 
 </div>
