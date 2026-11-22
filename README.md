@@ -1,5 +1,3 @@
-# 🏫 SMART CLASSROOM DIGITAL TWIN SYSTEM
-
 <div align="center">
 
 <img src="./assets/bener.png" width="100%" alt="Smart Classroom Digital Twin System">
