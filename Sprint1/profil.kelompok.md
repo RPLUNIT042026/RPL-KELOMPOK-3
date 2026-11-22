@@ -36,7 +36,7 @@
 <sub>🚀 Kru 02</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://api.dicebear.com/9.x/adventurer/png?seed=Maulana%20Yoga&radius=50&size=150&backgroundColor=b6e3f4" width="100" alt="Maulana Yoga Syahputra"><br>
+<img src="assets/WhatsApp image 2026-11-23 at 02.04.04.jpeg" width="100" alt="Maulana Yoga Syahputra"><br>
 <b>Maulana Yoga Syahputra</b><br>
 <code>240504104</code><br>
 <sub>🚀 Kru 03</sub>
