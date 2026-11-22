@@ -141,8 +141,8 @@ Setiap anggota punya cabang (branch) sendiri, lalu semuanya digabung ke `main` u
 
 | Anggota | Cabang | Alur kerja |
 |:--------|:-------|:-----------|
-| 🟦 Nazua |update aset → commit → sinkronkan |
-| 🟪 Grace | tulis konten → commit → sinkronkan |
+| 🟦 Nazua | `nazua` | `init` ➜ commit fitur ➜ merge ke `main` | |
+| 🟪 Grace | `grace` | `init` ➜ commit fitur ➜ merge ke `main` ||
 | 🟩 Yoga | `yoga` | `init` ➜ commit fitur ➜ merge ke `main` |
 | 🟧 Agil | `agil` | `init` ➜ commit fitur ➜ merge ke `main` |
 | 🟥 Al Ichsan | `ichsan` | `init` ➜ commit fitur ➜ merge ke `main` |
