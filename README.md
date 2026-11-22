@@ -90,7 +90,7 @@ Project ini dikembangkan dengan beberapa tujuan:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,github,html,css,js" />
+<img src="https://skillicons.dev/icons?i=vscode,github,html,python,css,js" />
 
 <br><br>
 
@@ -99,17 +99,12 @@ Project ini dikembangkan dengan beberapa tujuan:
 
 </div>
 
-
-
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&height=50&lines=THANK+YOU+FOR+VISITING!;SMART+CLASSROOM+DIGITAL+TWIN;INNOVATION+MEETS+EDUCATION." alt="Closing Animation">
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,50:164E8A,100:0A1128&height=130&section=footer" width="100%" alt="Footer">
-
-<sub>© 2026 SMART CLASSROOM DIGITAL TWIN SYSTEM</sub>
-
-<sub>Developed with 💙 by Informatika Team</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1128,25:102A43,50:164E8A,75:176B87,100:19C7D9&height=140&section=footer" width="100%" alt="Footer">
 
 </div>
