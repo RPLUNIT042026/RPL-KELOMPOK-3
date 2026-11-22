@@ -19,6 +19,10 @@
 </div>
 
 ---
+<div align="center">
+
+# 🎮 PLAYER SELECT
+---
 
 ## 🛰️ Misi Utama
 
