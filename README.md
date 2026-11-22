@@ -1,12 +1,8 @@
-# 🏫 SMART CLASSROOM DIGITAL TWIN SYSTEM
-
-<div align="center">
+ <div align="center">
 
 <img src="./assets/bener.png" width="100%" alt="Smart Classroom Digital Twin System">
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+Smart+Classroom+Digital+Twin;%24+Initializing+Digital+Environment...;%E2%9C%93+Virtual+Classroom+Model+Ready;%E2%9C%93+System+Status%3A+ONLINE" alt="Typing Animation">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=700&height=45&lines=Welcome+to+Smart+Classroom+Digital+Twin;%24+Initializing+Digital+Environment...;%E2%9C%93+Virtual+Classroom+Model+Ready;%E2%9C%93+System+Status%3A+ONLINE" alt="Typing Animation">
 
 <br>
 
@@ -24,9 +20,7 @@
 
 </div>
 
----
-
-## 🌐 ABOUT THE PROJECT
+<h2 align="center">🌐 ABOUT THE PROJECT</h2>
 
 **Smart Classroom Digital Twin System** merupakan project pengembangan sistem yang mengangkat konsep Digital Twin dalam lingkungan pendidikan, khususnya ruang kelas perkuliahan.
 
@@ -42,13 +36,11 @@ Konsep ini menghubungkan dunia nyata dengan representasi digital sehingga kondis
 
 </div>
 
----
-
-## ⚡ PROJECT HIGHLIGHTS
+<h2 align="center">⚡ PROJECT HIGHLIGHTS</h2>
 
 <div align="center">
 
-| <img src="https://img.icons8.com/fluency/48/classroom.png" width="35"> | <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="35"> | <img src="https://img.icons8.com/fluency/48/cloud.png" width="35"> |
+| <img src="https://img.icons8.com/fluency/48/classroom.png" width="40"> | <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="40"> | <img src="https://img.icons8.com/fluency/48/cloud.png" width="40"> |
 |:---:|:---:|:---:|
 | **Smart Learning** | **Digital Twin** | **Virtual Environment** |
 | Konsep kelas pintar | Representasi digital | Lingkungan virtual |
@@ -61,9 +53,7 @@ Konsep ini menghubungkan dunia nyata dengan representasi digital sehingga kondis
 
 </div>
 
----
-
-## 🎯 PROJECT OBJECTIVES
+<h2 align="center">🎯 PROJECT OBJECTIVES</h2>
 
 Project ini dikembangkan dengan beberapa tujuan:
 
@@ -73,9 +63,7 @@ Project ini dikembangkan dengan beberapa tujuan:
 - 💡 Menerapkan konsep Digital Twin dalam bidang pendidikan.
 - 🚀 Mengembangkan pemahaman mengenai teknologi pendidikan berbasis digital.
 
----
-
-## 🔄 SYSTEM DEVELOPMENT
+<h2 align="center">🔄 SYSTEM DEVELOPMENT</h2>
 
 <div align="center">
 
@@ -85,17 +73,19 @@ Project ini dikembangkan dengan beberapa tujuan:
 <img src="https://img.shields.io/badge/02-ANALYSIS-7C3AED?style=for-the-badge">
 <img src="https://img.shields.io/badge/03-DESIGN-DB2777?style=for-the-badge">
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/04-IMPLEMENTATION-0891B2?style=for-the-badge">
 <img src="https://img.shields.io/badge/05-TESTING-059669?style=for-the-badge">
 <img src="https://img.shields.io/badge/06-MAINTENANCE-D97706?style=for-the-badge">
 
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=600&height=35&lines=PLAN+%3E+ANALYZE+%3E+DESIGN;BUILD+%3E+TEST+%3E+MAINTAIN" alt="SDLC Animation">
+
 </div>
 
----
-
-## 👨‍💻 DEVELOPMENT TEAM
+<h2 align="center">👨‍💻 DEVELOPMENT TEAM</h2>
 
 <div align="center">
 
@@ -113,29 +103,31 @@ Project ini dikembangkan dengan beberapa tujuan:
 | 🎮 04 | **Muhammad Agil Ramadhan** | Team Member |
 | 🚀 05 | **Al Ichsan Irawadi** | Team Member |
 
----
-
-
 <h2 align="center">🛠️ TOOLS & TECHNOLOGIES</h2>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,github,html,css,js" />
+<img src="https://skillicons.dev/icons?i=vscode,github,html,css,js" alt="Development Tools">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Code%20Editor-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode">
-<img src="https://img.shields.io/badge/Version%20Control-GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/CODE%20EDITOR-VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/VERSION%20CONTROL-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/WEB-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/WEB-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/WEB-JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 
 </div>
 
-
-## 🎓 ACADEMIC INFORMATION
+<h2 align="center">🎓 ACADEMIC INFORMATION</h2>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/COURSE-Rekayasa%20Perangkat%20Lunak-0D9488?style=for-the-badge">
-<img src="https://img.shields.io/badge/LECTURER-Cut%20Alna%20Fadhilla-2563EB?style=for-the-badge">
+<img src="https://img.shields.io/badge/COURSE-REKAYASA%20PERANGKAT%20LUNAK-0D9488?style=for-the-badge">
+<img src="https://img.shields.io/badge/PROGRAM-INFORMATIKA-2563EB?style=for-the-badge">
 
 <br><br>
 
@@ -143,9 +135,13 @@ Project ini dikembangkan dengan beberapa tujuan:
 
 Cut Alna Fadhilla, S.Kom., M.Sc.
 
+<br>
+
 **Mata Kuliah**
 
 Rekayasa Perangkat Lunak
+
+<br>
 
 **Program Studi**
 
@@ -153,26 +149,24 @@ Informatika
 
 </div>
 
----
+<h2 align="center">🌌 OUR VISION</h2>
 
 <div align="center">
 
-## 🌌 OUR VISION
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=650&height=55&lines=ONE+CLASSROOM%2C+TWO+WORLDS;THINK+DIGITAL.;BUILD+SMART.;CREATE+THE+FUTURE." alt="Vision Animation">
 
-### "One Classroom, Two Worlds."
+<br>
+
+<img src="https://img.shields.io/badge/01-DIGITAL%20INNOVATION-0891B2?style=for-the-badge">
+<img src="https://img.shields.io/badge/02-SMART%20EDUCATION-7C3AED?style=for-the-badge">
+<img src="https://img.shields.io/badge/03-FUTURE%20TECHNOLOGY-DB2777?style=for-the-badge">
+
+<br><br>
 
 *Connecting real education with digital innovation.*
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&height=40&lines=Think+Digital.;Build+Smart.;Create+The+Future." alt="Footer Animation">
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,50:164E8A,100:0A1128&height=130&section=footer" width="100%" alt="Footer">
-
-<sub>© 2026 SMART CLASSROOM DIGITAL TWIN SYSTEM</sub>
-
-<sub>Developed with 💙 by Informatika Team</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D9488,50:164E8A,100:0A1128&height=5&section=footer" width="80%" alt="Vision Accent">
 
 </div>
