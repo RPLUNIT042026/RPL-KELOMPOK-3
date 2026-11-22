@@ -79,7 +79,7 @@ Aplikasi web yang merepresentasikan ruang kuliah universitas secara digital. Pen
 | 🏫 Classroom Management | Profil ruang, kapasitas, dan fasilitas virtual (lampu, AC, proyektor) |
 | 📅 Schedule Management | Penjadwalan kuliah dengan validasi bentrok otomatis |
 | 🗺️ Digital Twin Overview | Tampilan interaktif 2D/kartu untuk status ruang kelas |
-| 👥 Occupancy Simulation | Simulasi jumlah peserta dan status kosong/terisi |
+| 👥 Occupancy Simulation | Simulasi jumlah peserta dan status kosong terisi |
 | 📊 Utilization Analytics | Dashboard jam sibuk dan tingkat pemakaian ruang |
 | 🔐 Role-Based Access | Hak akses berbeda untuk setiap aktor |
 
