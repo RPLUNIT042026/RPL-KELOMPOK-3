@@ -41,7 +41,7 @@
 <table>
 <tr>
 <td align="center" width="170">
-<img src="https://api.dicebear.com/9.x/adventurer/png?seed=Nazua&radius=20&size=200&backgroundColor=a78bfa" width="145" alt="Nazua">
+<img src="../assets/WhatsApp%20Image%202026-11-23%20at%2003.27.34.jpeg" alt="Nazua" width="145">alt="Nazua">
 </td>
 <td>
 <b>Nazua</b><br>
