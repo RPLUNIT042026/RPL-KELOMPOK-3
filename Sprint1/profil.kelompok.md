@@ -59,7 +59,9 @@ GitHub: <a href="https://github.com/geyesanastasya05-hub">@geyesanastasya05-hub<
 </tr>
 <tr>
 <td align="center" width="170">
-<img src="https://api.dicebear.com/9.x/adventurer/png?seed=Maulana%20Yoga&radius=20&size=200&backgroundColor=38bdf8" width="145" alt="Maulana Yoga Syahputra">
+<img src="../assets/WhatsApp%20Image%202026-11-23%20at%2002.04.04.jpeg"
+     width="100"
+     alt="Maulana Yoga Syahputra"><br>
 </td>
 <td>
 <b>Maulana Yoga Syahputra</b><br>
