@@ -97,14 +97,13 @@ Project ini dikembangkan dengan beberapa tujuan:
 <img src="https://img.shields.io/badge/Code%20Editor-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode">
 <img src="https://img.shields.io/badge/Version%20Control-GitHub-181717?style=for-the-badge&logo=github">
 
-</div>
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&height=50&lines=THANK+YOU+FOR+VISITING!;SMART+CLASSROOM+DIGITAL+TWIN;INNOVATION+MEETS+EDUCATION." alt="Closing Animation">
 
-<br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1128,25:102A43,50:164E8A,75:176B87,100:19C7D9&height=140&section=footer" width="100%" alt="Footer">
+<br><br>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=082043&height=110&section=footer&text=REKAYASA%20PERANGKAT%20LUNAK&fontSize=20&fontColor=FFFFFF&fontAlignY=55" width="100%" alt="Footer">
 
+INFORMATIKA TEAM © 2026
 </div>
