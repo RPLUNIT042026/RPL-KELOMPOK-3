@@ -178,7 +178,7 @@ Setiap anggota punya cabang (branch) sendiri, lalu semuanya digabung ke `main` u
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3a506b,50:1c2541,100:0b132b&height=110&section=footer&text=Mission%20Complete&fontSize=26&fontColor=5bc0be&fontAlignY=65&animation=twinkling" width="100%" alt="Mission Complete">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10172A,35:164E83,70:087EAD,100:38BDF8&height=140&section=footer&text=DESIGN%20%E2%80%A2%20DEVELOP%20%E2%80%A2%20INNOVATE&fontSize=22&fontColor=FFFFFF&animation=fadeIn"/>
 
 **INFORMAATIKA TEAM © 2026**
 
