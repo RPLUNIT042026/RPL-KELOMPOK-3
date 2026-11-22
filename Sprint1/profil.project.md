@@ -1,41 +1,87 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b132b,50:1c2541,100:3a506b&height=230&section=header&text=INFORMATIKA%20TEAM&fontSize=54&fontColor=5bc0be&fontAlignY=42&desc=%F0%9F%9B%B0%EF%B8%8F%20REKAYASA%20PERANGKAT%20LUNAK%20%F0%9F%9B%B0%EF%B8%8F&descSize=20&descColor=ffffff&descAlignY=65&animation=twinkling" width="100%" alt="Informatika Team">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b132b,50:1c2541,100:3a506b&height=190&section=header&text=SMART%20CLASSROOM%20DIGITAL%20TWIN&fontSize=38&fontColor=5bc0be&fontAlignY=45&desc=PROFIL%20PROYEK%20%E2%80%A2%20SPRINT%201&descSize=16&descColor=e2e8f0&descAlignY=68" width="100%" alt="Smart Classroom Digital Twin">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3000&pause=1000&color=5BC0BE&center=true&vCenter=true&width=640&height=45&lines=Mission+Control+%E2%80%A2+Online;Five+Minds%2C+One+Mission;Learn+%C2%B7+Create+%C2%B7+Collaborate" alt="Mission Control">
+<br>
 
-**Dosen Pengampu: Cut Alna Fadhilla, S.Kom., M.Sc.**
-
-</div>
-
----
-
-<div align="center">
-
-### 🌌 *“Lima pikiran, satu misi, kreativitas tanpa batas.”*
+![Status](https://img.shields.io/badge/Status-Sprint%201%20%E2%80%A2%20In%20Progress-0b132b?style=for-the-badge&color=5bc0be)
+![Course](https://img.shields.io/badge/Course-Rekayasa%20Perangkat%20Lunak-1c2541?style=for-the-badge&color=3a506b)
 
 </div>
 
 ---
 
-## 🧑‍🚀 Kenalan dengan Kru
+## 📌 Ringkasan Proyek
+
+**Smart Classroom Digital Twin System** adalah representasi digital dari ruang kelas yang dirancang untuk membantu pemantauan, simulasi, dan pengelolaan kondisi lingkungan belajar **tanpa memerlukan pemasangan perangkat keras tambahan** di dalam ruangan.
+
+Fokus utama proyek ini adalah menghadirkan visualisasi ruang kelas yang informatif, ringan diimplementasikan, serta mudah dikembangkan secara bertahap sesuai siklus pengembangan perangkat lunak.
+
+---
+
+## 🎯 Latar Belakang & Masalah
+
+* Pengelolaan dan pemantauan kondisi ruang kelas sering kali masih dilakukan secara manual atau bergantung pada perangkat IoT/sensor fisik yang membutuhkan biaya instalasi dan perawatan tambahan.
+* Informasi terkait tata letak, pemanfaatan ruang, serta kondisi simulasi kelas belum terpusat dalam satu tampilan digital yang mudah diakses.
+* Diperlukan model *digital twin* berbasis perangkat lunak yang dapat merepresentasikan ruang kelas secara terstruktur dan terukur sejak tahap perencanaan.
+
+---
+
+## 🚀 Tujuan Proyek
+
+* Membangun prototipe **Smart Classroom Digital Twin System** yang berfungsi sebagai replika digital ruang kelas.
+* Menyediakan antarmuka visual untuk memantau dan mensimulasikan kondisi ruang kelas secara terstruktur.
+* Menerapkan alur kerja **Rekayasa Perangkat Lunak** yang rapi—mulai dari perencanaan, analisis kebutuhan, perancangan, implementasi, pengujian, hingga rilis.
+
+---
+
+## ✨ Rencana Fitur Utama
+
+| Fitur | Deskripsi Singkat | Prioritas |
+|:------|:------------------|:---------:|
+| **Representasi Ruang Digital** | Visualisasi tata letak dan elemen ruang kelas dalam format digital | Tinggi |
+| **Simulasi & Skenario Kelas** | Pengujian kondisi atau pengaturan ruang tanpa perangkat keras fisik | Tinggi |
+| **Dashboard Informasi** | Ringkasan status dan data utama ruang kelas agar mudah dibaca | Sedang |
+| **Manajemen Data Konfigurasi** | Penyimpanan dan pembaruan parameter ruang kelas secara terstruktur | Sedang |
+
+---
+
+## 🧱 Arsitektur Tingkat Tinggi (Gambaran Awal)
+
+```mermaid
+flowchart TD
+    A["📊 Data & Parameter Kelas<br/><sub>Konfigurasi Ruang & Skenario</sub>"] --> B["⚙️ Logika & Simulasi Sistem<br/><sub>Pemrosesan & Model Digital Twin</sub>"]
+    B --> C["🖥️ Antarmuka Digital Twin<br/><sub>Visualisasi & Dashboard Kelas</sub>"]
+    C --> D["👤 Pengguna / Dosen / Mahasiswa<br/><sub>Pemantauan & Evaluasi Kondisi</sub>"]
+    D -. "Ubah Parameter / Skenario" .-> A
+```
+
+---
+
+## 🛠️ Teknologi yang Digunakan
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://api.dicebear.com/9.x/adventurer/png?seed=Nazua&radius=50&size=150&backgroundColor=c0aede" width="100" alt="Nazua"><br>
-<b>Nazua</b><br>
-<code>250504128</code><br>
-<sub>🚀 Kru 01</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://api.dicebear.com/9.x/adventurer/png?seed=Grace%20Anastasya&radius=50&size=150&backgroundColor=ffd5dc" width="100" alt="Grace Anastasya Siahaan"><br>
-<b>Grace Anastasya Siahaan</b><br>
-<code>250504110</code><br>
-<sub>🚀 Kru 02</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://api.dicebear.com/9.x/adventurer/png?seed=Maulana%20Yoga&radius=50&size=150&backgroundColor=b6e3f4" width="100" alt="Maulana Yoga Syahputra"><br>
-<b>Maulana Yoga Syahputra</b><br>
-<code>240504104</code><br
+
+![HTML5](https://img.shields.io/badge/HTML5-0b132b?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0b132b?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0b132b?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-0b132b?style=for-the-badge&logo=python&logoColor=3776AB)
+![Git](https://img.shields.io/badge/Git-0b132b?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0b132b?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 🗓️ Target Tahapan
+
+* **Sprint 1 (Saat Ini):** Penyusunan profil tim, profil proyek, *project charter*, analisis kebutuhan awal, dan rancangan konsep sistem.
+* **Sprint Berikutnya:** Pengembangan komponen inti, integrasi data simulasi, pengujian fungsionalitas, dan penyempurnaan antarmuka.
+
+---
+
+<div align="center">
+
+<sub>Dokumen ini dikelola oleh <b>Kelompok 3</b> • Mata Kuliah Rekayasa Perangkat Lunak</sub>
+
+</div>
