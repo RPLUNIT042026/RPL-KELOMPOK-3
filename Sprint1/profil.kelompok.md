@@ -76,7 +76,7 @@ GitHub: <a href="https://github.com/Nganggurr">@Nganggurr</a><br><br>
 </tr>
 <tr>
 <td align="center" width="170">
-<img src="https://api.dicebear.com/9.x/adventurer/png?seed=Muhammad%20Agil&radius=20&size=200&backgroundColor=818cf8" width="145" alt="Muhammad Agil Ramadhan">
+<img src="../assets/WhatsApp%20Image%202026-11-23%20at%2003.27.52.jpeg" width="145" alt="Muhammad Agil Ramadhan">
 </td>
 <td>
 <b>Muhammad Agil Ramadhan</b><br>
